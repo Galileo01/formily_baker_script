@@ -1,0 +1,569 @@
+{
+  "date": 1733280752511,
+  "valid_path_list": [
+    {
+      "path": "docs/guide/advanced/async.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_advanced_async.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/advanced/async.zh-CN.md",
+      "is_new_current_run": true
+    },
+    {
+      "path": "docs/guide/advanced/build.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_advanced_build.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/advanced/build.zh-CN.md",
+      "is_new_current_run": true
+    },
+    {
+      "path": "docs/guide/advanced/business-logic.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_advanced_business-logic.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/advanced/business-logic.zh-CN.md",
+      "is_new_current_run": true
+    },
+    {
+      "path": "docs/guide/advanced/calculator.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_advanced_calculator.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/advanced/calculator.zh-CN.md",
+      "is_new_current_run": true
+    },
+    {
+      "path": "docs/guide/advanced/controlled.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_advanced_controlled.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/advanced/controlled.zh-CN.md",
+      "is_new_current_run": true
+    },
+    {
+      "path": "docs/guide/advanced/custom.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_advanced_custom.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/advanced/custom.zh-CN.md",
+      "is_new_current_run": true
+    },
+    {
+      "path": "docs/guide/advanced/destructor.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_advanced_destructor.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/advanced/destructor.zh-CN.md",
+      "is_new_current_run": true
+    },
+    {
+      "path": "docs/guide/advanced/layout.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_advanced_layout.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/advanced/layout.zh-CN.md",
+      "is_new_current_run": true
+    },
+    {
+      "path": "docs/guide/advanced/linkages.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_advanced_linkages.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/advanced/linkages.zh-CN.md",
+      "is_new_current_run": true
+    },
+    {
+      "path": "docs/guide/advanced/validate.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_advanced_validate.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/advanced/validate.zh-CN.md",
+      "is_new_current_run": true
+    },
+    {
+      "path": "docs/guide/contribution.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_contribution.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/contribution.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "docs/guide/form-builder.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_form-builder.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/form-builder.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "docs/guide/index.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_index.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/index.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "docs/guide/issue-helper.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_issue-helper.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/issue-helper.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "docs/guide/learn-formily.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_learn-formily.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/learn-formily.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "docs/guide/quick-start.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_quick-start.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/quick-start.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "docs/guide/scenes/dialog-drawer.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_scenes_dialog-drawer.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/scenes/dialog-drawer.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "docs/guide/scenes/edit-detail.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_scenes_edit-detail.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/scenes/edit-detail.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "docs/guide/scenes/login-register.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_scenes_login-register.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/scenes/login-register.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "docs/guide/scenes/more.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_scenes_more.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/scenes/more.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "docs/guide/scenes/query-list.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_scenes_query-list.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/scenes/query-list.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "docs/guide/scenes/step-form.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_scenes_step-form.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/scenes/step-form.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "docs/guide/scenes/tab-form.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_scenes_tab-form.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/scenes/tab-form.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "docs/guide/upgrade.zh-CN.md",
+      "name": "[create_from_script]_docs_guide_upgrade.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/guide/upgrade.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "docs/index.zh-CN.md",
+      "name": "[create_from_script]_docs_index.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/docs/index.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/core/docs/api/entry/FieldEffectHooks.zh-CN.md",
+      "name": "[create_from_script]_packages_core_docs_api_entry_FieldEffectHooks.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/core/docs/api/entry/FieldEffectHooks.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/core/docs/api/entry/FormChecker.zh-CN.md",
+      "name": "[create_from_script]_packages_core_docs_api_entry_FormChecker.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/core/docs/api/entry/FormChecker.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/core/docs/api/entry/FormEffectHooks.zh-CN.md",
+      "name": "[create_from_script]_packages_core_docs_api_entry_FormEffectHooks.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/core/docs/api/entry/FormEffectHooks.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/core/docs/api/entry/FormHooksAPI.zh-CN.md",
+      "name": "[create_from_script]_packages_core_docs_api_entry_FormHooksAPI.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/core/docs/api/entry/FormHooksAPI.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/core/docs/api/entry/FormPath.zh-CN.md",
+      "name": "[create_from_script]_packages_core_docs_api_entry_FormPath.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/core/docs/api/entry/FormPath.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/core/docs/api/entry/FormValidatorRegistry.zh-CN.md",
+      "name": "[create_from_script]_packages_core_docs_api_entry_FormValidatorRegistry.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/core/docs/api/entry/FormValidatorRegistry.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/core/docs/api/entry/createForm.zh-CN.md",
+      "name": "[create_from_script]_packages_core_docs_api_entry_createForm.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/core/docs/api/entry/createForm.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/core/docs/api/models/ArrayField.zh-CN.md",
+      "name": "[create_from_script]_packages_core_docs_api_models_ArrayField.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/core/docs/api/models/ArrayField.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/core/docs/api/models/Field.zh-CN.md",
+      "name": "[create_from_script]_packages_core_docs_api_models_Field.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/core/docs/api/models/Field.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/core/docs/api/models/Form.zh-CN.md",
+      "name": "[create_from_script]_packages_core_docs_api_models_Form.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/core/docs/api/models/Form.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/core/docs/api/models/ObjectField.zh-CN.md",
+      "name": "[create_from_script]_packages_core_docs_api_models_ObjectField.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/core/docs/api/models/ObjectField.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/core/docs/api/models/Query.zh-CN.md",
+      "name": "[create_from_script]_packages_core_docs_api_models_Query.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/core/docs/api/models/Query.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/core/docs/api/models/VoidField.zh-CN.md",
+      "name": "[create_from_script]_packages_core_docs_api_models_VoidField.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/core/docs/api/models/VoidField.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/core/docs/guide/architecture.zh-CN.md",
+      "name": "[create_from_script]_packages_core_docs_guide_architecture.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/core/docs/guide/architecture.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/core/docs/guide/field.zh-CN.md",
+      "name": "[create_from_script]_packages_core_docs_guide_field.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/core/docs/guide/field.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/core/docs/guide/form.zh-CN.md",
+      "name": "[create_from_script]_packages_core_docs_guide_form.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/core/docs/guide/form.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/core/docs/guide/index.zh-CN.md",
+      "name": "[create_from_script]_packages_core_docs_guide_index.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/core/docs/guide/index.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/core/docs/guide/mvvm.zh-CN.md",
+      "name": "[create_from_script]_packages_core_docs_guide_mvvm.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/core/docs/guide/mvvm.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/core/docs/guide/values.zh-CN.md",
+      "name": "[create_from_script]_packages_core_docs_guide_values.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/core/docs/guide/values.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/core/docs/index.zh-CN.md",
+      "name": "[create_from_script]_packages_core_docs_index.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/core/docs/index.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/components/ArrayField.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_components_ArrayField.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/components/ArrayField.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/components/ExpressionScope.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_components_ExpressionScope.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/components/ExpressionScope.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/components/Field.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_components_Field.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/components/Field.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/components/FormConsumer.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_components_FormConsumer.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/components/FormConsumer.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/components/FormProvider.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_components_FormProvider.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/components/FormProvider.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/components/ObjectField.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_components_ObjectField.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/components/ObjectField.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/components/RecordScope.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_components_RecordScope.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/components/RecordScope.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/components/RecordsScope.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_components_RecordsScope.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/components/RecordsScope.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/components/RecursionField.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_components_RecursionField.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/components/RecursionField.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/components/SchemaField.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_components_SchemaField.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/components/SchemaField.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/components/VoidField.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_components_VoidField.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/components/VoidField.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/hooks/useExpressionScope.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_hooks_useExpressionScope.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/hooks/useExpressionScope.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/hooks/useField.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_hooks_useField.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/hooks/useField.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/hooks/useFieldSchema.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_hooks_useFieldSchema.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/hooks/useFieldSchema.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/hooks/useForm.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_hooks_useForm.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/hooks/useForm.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/hooks/useFormEffects.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_hooks_useFormEffects.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/hooks/useFormEffects.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/hooks/useParentForm.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_hooks_useParentForm.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/hooks/useParentForm.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/shared/Schema.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_shared_Schema.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/shared/Schema.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/shared/connect.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_shared_connect.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/shared/connect.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/shared/context.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_shared_context.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/shared/context.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/shared/mapProps.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_shared_mapProps.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/shared/mapProps.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/shared/mapReadPretty.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_shared_mapReadPretty.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/shared/mapReadPretty.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/api/shared/observer.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_api_shared_observer.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/api/shared/observer.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/guide/architecture.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_guide_architecture.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/guide/architecture.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/guide/concept.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_guide_concept.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/guide/concept.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/guide/index.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_guide_index.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/guide/index.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/react/docs/index.zh-CN.md",
+      "name": "[create_from_script]_packages_react_docs_index.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/react/docs/index.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/reactive/docs/api/action.zh-CN.md",
+      "name": "[create_from_script]_packages_reactive_docs_api_action.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/reactive/docs/api/action.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/reactive/docs/api/autorun.zh-CN.md",
+      "name": "[create_from_script]_packages_reactive_docs_api_autorun.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/reactive/docs/api/autorun.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/reactive/docs/api/batch.zh-CN.md",
+      "name": "[create_from_script]_packages_reactive_docs_api_batch.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/reactive/docs/api/batch.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/reactive/docs/api/define.zh-CN.md",
+      "name": "[create_from_script]_packages_reactive_docs_api_define.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/reactive/docs/api/define.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/reactive/docs/api/hasCollected.zh-CN.md",
+      "name": "[create_from_script]_packages_reactive_docs_api_hasCollected.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/reactive/docs/api/hasCollected.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/reactive/docs/api/markObservable.zh-CN.md",
+      "name": "[create_from_script]_packages_reactive_docs_api_markObservable.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/reactive/docs/api/markObservable.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/reactive/docs/api/markRaw.zh-CN.md",
+      "name": "[create_from_script]_packages_reactive_docs_api_markRaw.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/reactive/docs/api/markRaw.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/reactive/docs/api/model.zh-CN.md",
+      "name": "[create_from_script]_packages_reactive_docs_api_model.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/reactive/docs/api/model.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/reactive/docs/api/observable.zh-CN.md",
+      "name": "[create_from_script]_packages_reactive_docs_api_observable.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/reactive/docs/api/observable.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/reactive/docs/api/observe.zh-CN.md",
+      "name": "[create_from_script]_packages_reactive_docs_api_observe.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/reactive/docs/api/observe.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/reactive/docs/api/raw.zh-CN.md",
+      "name": "[create_from_script]_packages_reactive_docs_api_raw.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/reactive/docs/api/raw.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/reactive/docs/api/react/observer.zh-CN.md",
+      "name": "[create_from_script]_packages_reactive_docs_api_react_observer.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/reactive/docs/api/react/observer.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/reactive/docs/api/reaction.zh-CN.md",
+      "name": "[create_from_script]_packages_reactive_docs_api_reaction.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/reactive/docs/api/reaction.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/reactive/docs/api/toJS.zh-CN.md",
+      "name": "[create_from_script]_packages_reactive_docs_api_toJS.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/reactive/docs/api/toJS.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/reactive/docs/api/tracker.zh-CN.md",
+      "name": "[create_from_script]_packages_reactive_docs_api_tracker.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/reactive/docs/api/tracker.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/reactive/docs/api/typeChecker.zh-CN.md",
+      "name": "[create_from_script]_packages_reactive_docs_api_typeChecker.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/reactive/docs/api/typeChecker.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/reactive/docs/api/untracked.zh-CN.md",
+      "name": "[create_from_script]_packages_reactive_docs_api_untracked.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/reactive/docs/api/untracked.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/reactive/docs/api/vue/observer.zh-CN.md",
+      "name": "[create_from_script]_packages_reactive_docs_api_vue_observer.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/reactive/docs/api/vue/observer.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/reactive/docs/guide/best-practice.zh-CN.md",
+      "name": "[create_from_script]_packages_reactive_docs_guide_best-practice.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/reactive/docs/guide/best-practice.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/reactive/docs/guide/concept.zh-CN.md",
+      "name": "[create_from_script]_packages_reactive_docs_guide_concept.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/reactive/docs/guide/concept.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/reactive/docs/guide/index.zh-CN.md",
+      "name": "[create_from_script]_packages_reactive_docs_guide_index.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/reactive/docs/guide/index.zh-CN.md",
+      "is_new_current_run": false
+    },
+    {
+      "path": "packages/reactive/docs/index.zh-CN.md",
+      "name": "[create_from_script]_packages_reactive_docs_index.zh-CN.md",
+      "web_url": "https://raw.githubusercontent.com/alibaba/formily/refs/heads/formily_next/packages/reactive/docs/index.zh-CN.md",
+      "is_new_current_run": false
+    }
+  ]
+}

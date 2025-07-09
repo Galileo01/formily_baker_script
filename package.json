@@ -1,0 +1,30 @@
+{
+  "name": "formily_baker_script",
+  "version": "1.0.0",
+  "description": "formily 糕手知识库生成脚本",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc src/*.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "lodash-es": "^4.17.21",
+    "node": "^20.18.1",
+    "node-fetch": "^3.3.2",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "eslint": "^9.16.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-typescript": "^18.0.0",
+    "eslint-config-prettier": "^9.1.0",
+    "modern-module-resolution": "link:@rushstack/eslint-patch/modern-module-resolution",
+    "prettier": "^3.4.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}

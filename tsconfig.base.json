@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "lib": ["es2021", "dom"],
+    "strict": true,
+    "sourceMap": true,
+    "jsx": "react",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitReturns": true,
+    "importHelpers": true,
+    "noUnusedLocals": false,
+    "esModuleInterop": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedParameters": false,
+    "noEmit": true,
+    "allowJs": true,
+    "skipDefaultLibCheck": true,
+    "skipLibCheck": true
+  }
+}
